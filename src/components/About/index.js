@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import AnimatedLetters from '../AnimatedLetters';
 import './index.scss';
 import { useEffect, useState } from 'react';
-import { faHtml5, faAngular, faCss3, faReact, faJsSquare, faGitAlt } from '@fortawesome/free-brands-svg-icons';
+import { faHtml5, faCss3, faReact, faJsSquare, faGitAlt } from '@fortawesome/free-brands-svg-icons';
 import Loader from 'react-loaders';
 import blockM from '../../assets/images/block-m.png';
 
