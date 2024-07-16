@@ -31,7 +31,7 @@ const About = () => {
                         From an early age, I have been captivated by technology and its ability to transform the world. My enthusiasm drove me to pursue a degree in Computer Science at the <b>University of Michigan</b>, where I built a solid foundation in programming languages, algorithms, and full-stack development. Throughout my academic journey, I have continually pushed myself to think critically and tackle complex problems, sharpening my analytical and problem-solving abilities.
                     </p>
                     <p align="LEFT">
-                        Beyond my technical expertise, I have strong interpersonal skills and an unwavering commitment to continuous learning. I am always eager to broaden my knowledge and stay -up-to-date with the latest advancements in the tech industry.
+                        Beyond my technical expertise, I have strong interpersonal skills and an unwavering commitment to continuous learning. I am always eager to broaden my knowledge and stay up-to-date with the latest advancements in the tech industry.
                     </p>
                     <p>
                         I am confident that my dedication, adaptability, and strong work ethic will enable me to excel in fast-paced and dynamic environments.
