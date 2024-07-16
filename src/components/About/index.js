@@ -4,6 +4,7 @@ import './index.scss';
 import { useEffect, useState } from 'react';
 import { faHtml5, faAngular, faCss3, faReact, faJsSquare, faGitAlt } from '@fortawesome/free-brands-svg-icons';
 import Loader from 'react-loaders';
+import blockM from '../../assets/images/block-m.png';
 
 const About = () => {
 
@@ -39,7 +40,7 @@ const About = () => {
                 <div className='stage-cube-cont'>
                     <div className='cubespinner'>
                         <div className='face1'>
-                            <FontAwesomeIcon icon={ faAngular } color="#DD0031" />
+                            <img className="block-m" src={ blockM } alt="block-m" />
                         </div>
                         <div className='face2'>
                             <FontAwesomeIcon icon={ faHtml5 } color="#F06529" />

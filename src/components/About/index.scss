@@ -29,11 +29,16 @@
         justify-content: center;
         align-items: center;
         box-shadow: 0 0 20px 0px lightyellow;
+
+        .block-m {
+            width: 60%;
+            height: auto;
+            opacity: 0.7;
+        }
     }
 
     .face1 {
         transform: translateZ(100px);
-        color: #dd0031;
     }
 
     .face2 {
