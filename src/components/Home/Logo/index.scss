@@ -1,37 +1,46 @@
 .logo-container {
-    z-index: 0;
-    width: 400px;
-    height: 609px;
-    opacity: 0;
-    position: absolute;
-    top: 0;
-    right: 15%;
-    bottom: 0;
-    left: auto;
-    margin: auto;
-  
-    svg {
-      width: 100%;
-      height: auto;
-      bottom: 0;
-      transform: rotateZ(30deg) !important;
-    }
-  
-    .solid-logo {
-      position: absolute;
-      top: auto;
-      right: auto;
-      bottom: auto;
-      left: 0;
-      margin: auto;
-      width: 100%;
-      opacity: 0;
-      transform: rotateZ(30deg) !important;
-      z-index: 1;
-    }
+  display: flex;
+  justify-content: flex-end; /* Aligns content to the right */
+  align-items: center; /* Centers content vertically */
+  height: 50vh; /* Adjust as needed */
+  padding-right: 0px; /* Optional: Adjust right padding */
+  margin-left: 35%;
+  margin-top: 11%;
+  html {
+    box-sizing: border-box;
   }
-  
-  .svg-container {
-    stroke: #ffd700;
-    stroke-width: 10;
+
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
   }
+
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+  }
+
+  body {
+    margin: 0;
+    background-color: #0a192f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+  }
+
+  .container {
+    width: max-content;
+    max-width: 100px;
+  }
+
+  svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    fill: none;
+  }
+}
