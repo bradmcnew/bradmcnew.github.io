@@ -1,34 +1,22 @@
 {
-    "portfolio": [
-        {
-            "cover": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
-            "title": "Project 1",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
-            "title": "Project 1",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
-            "title": "Project 1",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
-            "title": "Project 1",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
-            "title": "Project 1",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        }
-    ]
+  "portfolio": [
+    {
+      "cover": "https://i.ytimg.com/vi/1a6ppFFqhnE/maxresdefault.jpg",
+      "title": "Piazza ML Classifier",
+      "description": "C++, Machine Learning",
+      "url": "https://github.com/bradmcnew"
+    },
+    {
+      "cover": "https://i0.wp.com/blackboardradio.com/wp-content/uploads/2023/11/6454cffde970f168d32e7352_virtual-meetings.png?fit=2000%2C1249&ssl=1",
+      "title": "StudentConnect",
+      "description": "React, Node.js, PostgreSQL, Jest",
+      "url": "https://github.com/bradmcnew/advice-app"
+    },
+    {
+      "cover": "https://gemmo.ai/wp-content/uploads/2021/08/ext-1.jpeg",
+      "title": "Football Game Prediction",
+      "description": "Jupyter, Python, SQL, Machine Learning",
+      "url": "https://github.com/WolverineSportsAnalytics/Football-Fall-2023"
+    }
+  ]
 }
