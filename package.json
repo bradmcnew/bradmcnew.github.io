@@ -53,5 +53,5 @@
   "devDependencies": {
     "gh-pages": "^6.2.0"
   },
-  "homepage": "https://bradmcnew.github.io"
+  "homepage": "."
 }
