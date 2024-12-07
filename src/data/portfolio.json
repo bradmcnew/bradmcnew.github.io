@@ -1,22 +1,28 @@
 {
   "portfolio": [
     {
-      "cover": "https://i.ytimg.com/vi/1a6ppFFqhnE/maxresdefault.jpg",
+      "cover": "piazza-logo.jpg",
       "title": "Piazza ML Classifier",
       "description": "C++, Machine Learning",
       "url": "https://github.com/bradmcnew"
     },
     {
-      "cover": "https://i0.wp.com/blackboardradio.com/wp-content/uploads/2023/11/6454cffde970f168d32e7352_virtual-meetings.png?fit=2000%2C1249&ssl=1",
+      "cover": "student-connect-logo.jpg",
       "title": "StudentConnect",
       "description": "React, Node.js, PostgreSQL, Jest",
       "url": "https://github.com/bradmcnew/advice-app"
     },
     {
-      "cover": "https://gemmo.ai/wp-content/uploads/2021/08/ext-1.jpeg",
+      "cover": "nfl-boxplot.png",
       "title": "Football Game Prediction",
       "description": "Jupyter, Python, SQL, Machine Learning",
       "url": "https://github.com/WolverineSportsAnalytics/Football-Fall-2023"
+    },
+    {
+      "cover": "nba-stat-site.png",
+      "title": "Accessible NBA Player Website",
+      "description": "JavaScript, HTML, CSS",
+      "url": "https://github.com/bradmcnew/NBA-stats-js"
     }
   ]
 }

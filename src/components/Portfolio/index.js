@@ -20,7 +20,7 @@ const Portfolio = () => {
           return (
             <div className="image-box" key={idx}>
               <img
-                src={port.cover}
+                src={require(`../../assets/images/${port.cover}`)}
                 className="portfolio-image"
                 alt="portfolio"
               />
